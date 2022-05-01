@@ -1,2 +1,4 @@
-# Summer-School
-Data Science
+# Summer-School on data science 
+#### Coursework:
+* [Assignments]()
+* [Project]()
