@@ -1,4 +1,4 @@
-# Summer-School on data science 
+# Summer-School-2021 from Analytics Club, IITG
 #### Coursework: [W1](https://github.com/Mahendra687/w1) | [W2](https://github.com/Mahendra687/W2) | [W3](https://github.com/Mahendra687/W3) | [W4](https://github.com/Mahendra687/W4) | [W5](https://github.com/Mahendra687/W5) | [Project]()
 
 Completion of certificate:
